@@ -1,0 +1,1 @@
+this is a flash application which says welcome message
